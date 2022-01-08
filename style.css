@@ -14,7 +14,6 @@ p{
 }
 .top-banner{
     display: flex;
-    
     background-image:url(images/top-banner.png);
     background-repeat: no-repeat;
     margin: 0px;
