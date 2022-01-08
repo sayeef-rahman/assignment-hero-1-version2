@@ -1,0 +1,106 @@
+body{
+    font-family: 'Teko', sans-serif;
+    margin: 0px;
+}
+h1{
+
+    font-size: 50px;
+}
+h2{
+    font-size: 30px;
+}
+p{
+    font-size: 20px;
+}
+.top-banner{
+    display: flex;
+    
+    background-image:url(images/top-banner.png);
+    background-repeat: no-repeat;
+    margin: 0px;
+    
+}
+.half-width{
+    width: 50%;
+    padding-left: 3%;
+}
+.half-width img{
+    width: 60%;
+    padding-top: 2%;
+    padding-left: 27%;
+
+}
+.name{
+    color: red;
+}
+.head{
+    color:black;
+}
+.link-button{
+    color: white;
+    background-image: linear-gradient(#00f5ff,#000000);
+    text-decoration: none;
+    padding: 10px 40px;
+    border-radius: 5px;
+    font-size: 22px;
+    font-weight: 400;
+
+}
+.dream-big{
+    background-image: url(images/dream-bg.png);
+    display: flex;
+    background-repeat: no-repeat;
+    margin: 0px;
+    background-position: right;
+}
+.half-width2{
+    width: 50%;
+    padding-right: 5%;
+}
+.half-width2 img{
+    width: 60%;
+    padding-top: 7%;
+    padding-left: 8%;
+}
+.big{
+    color:red
+}
+.flexible{
+    display:flex;
+    
+}
+.half-width3{
+    width: 60%;
+    padding:0px 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px gray;
+}
+.aqua-color{
+    color:red;
+    font-size: 22px;
+}
+.experience-area{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    
+}
+.ex{
+    padding-left: 3%;
+}
+#web-dev-exp{
+    border-image:linear-gradient(#00f5ff,#000000);
+    border-image-slice: 1;
+    border-left: 6px solid;
+}
+#web-dev-exp1{
+    border-image:linear-gradient(#ff0000,#000000);
+    border-image-slice: 1;
+    border-left: 6px solid;
+}
+footer p{
+    text-align: center;
+    margin-top:5% ;
+}
