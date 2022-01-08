@@ -38,7 +38,7 @@ p{
 }
 .link-button{
     color: white;
-    background-image: linear-gradient(#00f5ff,#000000);
+    background-image: linear-gradient(#ffa75f,#ff4234);
     text-decoration: none;
     padding: 10px 40px;
     border-radius: 5px;
@@ -155,13 +155,17 @@ p{
     margin-left: 43px;
 }
 .footer{
-    background-color: #EBF5FB;
+    background-color: orange;
     display: flex;
     margin-top: 100px;
 }
 
 .footer_contact{
-    margin-left: 100px;
+    margin-left: 400px;
+}
+
+.footer_blog{
+    margin-left: 300px;
 }
 
 
