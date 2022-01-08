@@ -50,7 +50,7 @@ p{
     background-image: url(images/dream-bg.png);
     display: flex;
     background-repeat: no-repeat;
-    margin: 0px;
+    margin-top: 40px;
     background-position: right;
 }
 .half-width2{
@@ -85,6 +85,7 @@ p{
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
+    margin-top: 60px;
     
 }
 .ex{
@@ -100,6 +101,70 @@ p{
     border-image-slice: 1;
     border-left: 6px solid;
 }
+
+.my_mission_txt{
+    font-size: 30px;
+    color: black;
+    text-align: center;
+    margin-top: 40px;
+}
+
+.my_mission_content{
+    background-color: white;
+    display: flex;
+    margin-left: 100px;
+    margin-right: 100px;
+    align-content: center;
+}
+
+.my_mission_content img{
+    height: 150px;
+    width: 150px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.my_mission_content h3{
+    margin-left: 15px;
+}
+
+.my_mission_content p{
+    margin-left: 15px;
+}
+
+.my_mission_content_1{
+    background-color: #EBF5FB ;
+    width: 350px;
+    height: 350px;
+    border-radius: 15px;
+}
+
+.my_mission_content_2{
+    background-color: #FFE6FA;
+    width: 350px;
+    height: 350px;
+    border-radius: 15px;
+    margin-left: 43px;
+}
+
+.my_mission_content_3{
+    background-color: #FFE0C5;
+    width: 350px;
+    height: 350px;
+    border-radius: 15px;
+    margin-left: 43px;
+}
+.footer{
+    background-color: #EBF5FB;
+    display: flex;
+    margin-top: 100px;
+}
+
+.footer_contact{
+    margin-left: 100px;
+}
+
+
 footer p{
     text-align: center;
     margin-top:5% ;
